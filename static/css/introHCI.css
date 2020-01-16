@@ -9,6 +9,10 @@
 	color: #CC00AA;
 }
 
+#project1 {
+    font-variant: small-caps;
+}
+
 .project p {
     font-variant: small-caps;
 }
