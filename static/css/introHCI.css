@@ -9,7 +9,11 @@
 	color: #CC00AA;
 }
 
-.p {
+.project p {
+    font-variant: small-caps;
+}
+
+p {
     font-variant: small-caps;
 }
 
